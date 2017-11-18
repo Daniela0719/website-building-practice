@@ -1,4 +1,4 @@
-.parallax { 
+.parallax { file:///Users/student/Documents/GitHub/website-building-practice/index.html
 
     /* Full height */
     height: 100%; 
@@ -9,7 +9,15 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-
+#black{
+    color:black;
+}
+#mode{
+    font-size: 35px;
+}
+#color{
+    color:#3fa4fc;
+}
 @media only screen and (max-device-width: 1024px) {
     .parallax {
         background-attachment: scroll;
