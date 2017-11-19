@@ -15,8 +15,8 @@
 #mode{
     font-size: 35px;
 }
-#color{
-    color:#3fa4fc;
+#p_color{
+    font-size: 60px;
 }
 @media only screen and (max-device-width: 1024px) {
     .parallax {
